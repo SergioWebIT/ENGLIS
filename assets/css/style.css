@@ -44,17 +44,15 @@ h6 {
 }
 
 .key_words {
-    background-color: #000;
+    background-color: #545353;
     color: #fff;
-    padding: 5px;
-    border-radius: 20px;
+    padding: 3px;
+    border-radius: 15px;
 }
 
 .form_link:hover {
-    color: #fff;
-    background-color: #45505b;
-    padding: 7px;
-    border-radius: 20px;
+    color: #0a0b0c;
+    text-decoration: underline;
     transition: all 0.3s ease;
 }
 
